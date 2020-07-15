@@ -3,7 +3,6 @@ import os
 import datetime
 import nltk
 import re
-import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
